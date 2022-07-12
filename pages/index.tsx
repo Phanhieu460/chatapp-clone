@@ -6,7 +6,7 @@ import Sidebar from '../components/Sidebar'
 
 const Home: NextPage = () => {
   return (
-    <div className={styles.container}>
+    <div>
      <Sidebar/>
     </div>
   )
